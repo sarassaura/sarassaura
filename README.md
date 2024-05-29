@@ -7,14 +7,14 @@
 
 ### Linguagens:
 | Java | JS | C | Python |
-|----------|----------|----------|----------|
+|:----------:|:----------:|:----------:|:----------:|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |
 
   
 
 ### Frameworks e Bibliotecas
 | Spring | React | Next |
-|----------|----------|----------|
+|:----------:|:----------:|:----------:|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring"  alt="Spring" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React"  alt="React" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next"  alt="Next" width="55" height="55"/>|
 
 
@@ -22,7 +22,7 @@
 ### Banco de dados:
 
 | MySQL | Mongo | Firebase | Redis |
-|------------|------------|:------------:|------------|
+|:------------:|:------------:|:------------:|:------------:|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original-wordmark.svg" title="Firebase" alt="Firebase" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="Redis" alt="Redis" width="55" height="55"/>|
 
 
@@ -31,7 +31,7 @@
 ### DevOps
 
 | nodejs | Git | Docker |
-|----------|----------|----------|
+|:----------:|:----------:|:----------:|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|
 
 </div>
