@@ -7,7 +7,7 @@
 
 ### Languages:
 | Python3 | C | JS |
-|----------|----------|----------|-----|
+|----------|----------|----------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |
 
   
@@ -15,7 +15,7 @@
 ### Best frameworks and main libraries for Python3:
 
 | Numpy | Pandas | Matplotlib | OpenCV |
-|----------|----------|----------|----------|----------|----------|----------|
+|----------|----------|----------|----------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="mpl" alt="mpl" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="mpl" alt="mpl" width="55" height="55"/>|
 
 
@@ -23,7 +23,7 @@
 ### My tools for Data Manipulation:
 
 | MySQL |
-|----------|----------|----------|----------|----------|----------|
+|----------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|
 
 
@@ -32,7 +32,7 @@
 ### Environments, Testing, Other:
 
 | nodejs | Git | Docker |
-|----------|----------|----------|----------|----------|----------|----------|----------|
+|----------|----------|----------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|
 
 </div>
