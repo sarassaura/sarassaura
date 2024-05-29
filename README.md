@@ -32,11 +32,11 @@ Olá, meu nome é Sarah Yukino.
 
 
   
-### DevOps
+### Mais
 
-| nodejs | Git | Docker |
+| nodejs | Docker | GraphQl |
 |:----------:|:----------:|:----------:|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-original-wordmark.svg" title="GraphQl" alt="GraphQl" width="55" height="55"/>|
 
 </div>
 
