@@ -20,7 +20,7 @@
 
 
 
-### My tools for Data Manipulation:
+### Banco de dados:
 
 | MySQL |
 |----------|
@@ -29,7 +29,7 @@
 
 
   
-### Environments, Testing, Other:
+### DevOps
 
 | nodejs | Git | Docker |
 |----------|----------|----------|
