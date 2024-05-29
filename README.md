@@ -32,7 +32,7 @@ Olá, meu nome é Sarah Yukino.
 
 
   
-### Mais
+### Outras:
 
 | nodejs | Docker | GraphQl |
 |:----------:|:----------:|:----------:|
